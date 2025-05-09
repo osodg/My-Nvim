@@ -2,6 +2,14 @@
 
 This neovim configuration is being build up incrementally from scratch from a video series that I followed by [YouTube channel: MrJkob](http://youtube.com/c/MrJakob), with my own tweeks.
 
+---
+## Dependencies
+- fzf
+- npm
+```sh
+apt install fzf npm
+```
+---
 ## The Plan
 
 - [X] lazy.nvim
