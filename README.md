@@ -31,4 +31,4 @@ apt install fzf npm
 - [X] conform.nvim
 - [X] blink-cmp
 - [X] live-prview
-- [ ] clipboard
+- [x] clipboard
